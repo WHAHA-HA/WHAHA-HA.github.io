@@ -1,2 +1,1 @@
-# proshop_django
-My blog
+# My blog
