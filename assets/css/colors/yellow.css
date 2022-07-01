@@ -1,0 +1,76 @@
+#top-menu .menu-items > li.active > a, #top-menu .menu-items > li > a:hover, #top-menu .menu-items > li > a:focus,
+.main-slider .slide-item .slide-caption .slider-huge-title > span, .side-menu > ul > li.active a, .side-menu > ul > li > a:hover, .alt-color,
+.iconic-box:hover > .content-area > .back-icon i, .stats-item > .stat-info > .type, .team-peoples-carousel .team-peoples .people > .people-profile > .name-job > .name,
+.filter-btns > button.active, .filter-btns > button:hover, .service-box > .details > i, .special-text span, .static-banner .banner-content > h1 > span,
+.dt-btn, .copyright a, .special-testimonial > .title > span, .transparent-menu .site-header.scrolled #top-menu .menu-items > li > a:hover,
+.transparent-menu .site-header.scrolled #top-menu .menu-items > li.active > a, .transparent-menu .site-header #top-menu .menu-items > li.active > a,
+.team-peoples-carousel > [data-swiper="next"], .team-peoples-carousel > [data-swiper="prev"], form.search-form input.search-field,
+.widget_kingma_recent_posts > .popular-posts > li > .content .title > a:hover, .blog-posts article.hentry .entry-readmore:hover,
+.blog-posts article.hentry .entry-inside > .entry-meta > li > a:hover,
+.blog-posts article.hentry .entry-inside > .entry-title > a:hover,
+.blog-posts article.hentry .entry-featured.qoute blockquote:before,
+.blog-posts article.hentry .entry-featured.qoute blockquote:after,
+.dti-pager > li > a,
+.widget > ul > li > a:hover, .widget ul.menu > li > a:hover,
+.widget_tag_cloud > .tagcloud > a:hover,
+#wp-calendar tbody td a,
+#wp-calendar tfoot #next a:hover, #wp-calendar tfoot #prev a:hover,
+.widget > ul > li.recentcomments a:hover, .widget ul.menu > li.recentcomments a:hover,
+.social-icons > li > a:hover,
+.dark-layout .side-menu > ul > li.active a,
+.dark-layout.transparent-menu .site-header .social-icons > li > a:hover,
+.dark-layout.v-menu-active .site-header #top-menu .menu-items > li a:hover,
+.transparent-menu .site-header #top-menu .menu-items > li > a:hover {
+	color: #ff9c00;
+}
+
+.copyright a:hover {
+	color: #cc7d00;
+}
+
+.dt-btn, .contact-form input:focus, .contact-form textarea:focus,
+.dti-pager > li > a,
+.social-icons.rounded > li > a:hover,
+.widget_newsletter > form > button,
+.widget_newsletter > form > input:focus,
+.widget_tag_cloud > .tagcloud > a:hover,
+.dt-ajax-response {
+	border-color: #ff9c00;
+}
+
+.triangle:before, .process-flow-content .flow-title,
+form.search-form input.search-field {
+	border-bottom-color: #ff9c00;
+}
+
+.pricing-table .buy-link:hover:after {
+	border-top-color: #ff9c00;
+}
+
+.side-menu > ul > li > a:before, .iconic-box:hover > .icon > i, .process-flow-nav > li.active > a > i, .process-flow-nav > li > a > i:hover,
+.pricing-table.active:before, .clients-says-carousel .controls [data-swiper="next"]:hover, .clients-says-carousel .controls [data-swiper="prev"]:hover,
+.dt-btn:hover, .dt-btn:focus, .special-vertical-carousel .swiper-container .swiper-pagination > span.swiper-pagination-bullet-active,
+.social-icons.rounded > li > a:hover,
+.widget_newsletter > form > button,
+#wp-calendar tbody td:hover,
+.highlited, .dt-progress > span, .dt-progress > span:after {
+	background-color: #ff9c00;
+}
+
+.masonry-grid > .grid-item > .content > .overlay-content,
+.blog-posts article.hentry .entry-featured.carousel .dt-carousel-control:hover {
+	background-color: rgba(255, 156, 0, 0.65);
+}
+
+#back-to-top:before,
+.special-testimonial > .more {
+	border-color: transparent transparent #ff9c00 transparent;
+}
+
+#back-to-top:hover:before {
+	border-color: transparent transparent #995e00 transparent;
+}
+
+.dt-progress > span:before {
+	border-color: transparent transparent transparent #ff9c00;
+}
